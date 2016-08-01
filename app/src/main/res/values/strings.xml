@@ -7,4 +7,6 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_tabbed">TabbedActivity</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="girl_name">Грабова Алеся Михайловна</string>
+    <string name="girl_teacher">Учитель испанского языка</string>
 </resources>
